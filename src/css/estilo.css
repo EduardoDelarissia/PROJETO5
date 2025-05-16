@@ -58,6 +58,7 @@ a:hover{
     flex-direction: column;
     justify-content: space-between;
 }
+
 header{
     display: flex;
     justify-content: space-between;
@@ -116,6 +117,9 @@ span{
     flex-direction: column;
     justify-content: center;
     transition: .5s;
+}
+.item-menu{
+    color: #fff;
 }
 
 
